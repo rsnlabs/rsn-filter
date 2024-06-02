@@ -5,7 +5,7 @@ interface Result {
     message: string;
 }
 
-const apiUrl = "https://api.rsnai.org/api/v1/user";
+const apiUrl = "https://api.rnilaweera.lk/api/v1/user";
 
 class RsnFilter {
     headers = {

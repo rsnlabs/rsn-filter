@@ -1,6 +1,6 @@
 {
   "name": "rsn-filter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A comprehensive NSFW image detection npm package, equipped with advanced algorithms to ensure the safety and integrity of online platforms by swiftly identifying and filtering explicit content",
   "type": "module",
   "types": "./types/index.d.ts",
